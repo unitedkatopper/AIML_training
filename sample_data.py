@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 
 os.makedirs("data", exist_ok=True)
 
-names = ["Aman", "Riya", "Karan", "Meera", "Pratyush", "Arya", "Nikhil", "Sana", "Rahul", "Ishita", "Dev", "Ananya"]
+names = ["Aman", "Riya", "Karan", "Meera", "Pratyush", "Aryan", "Nikhil", "Sana", "Rahul", "Ishita", "Dev", "Ananya"]
 profiles = ["Research Explorer", "Creative Inventor", "Practical Problem Solver", "Bold Experimenter", "Product Builder", "Growing Innovator"]
 fields = ["AI Research", "Robotics", "Product Innovation", "Social Innovation", "Space / Future Tech"]
 
